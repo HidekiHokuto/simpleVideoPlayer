@@ -1,8 +1,9 @@
 # simpleVideoPlayer
 With GTK+3.0 and VLC
 
-*Platform*: Ubuntu
-*Dependencies*:
+**Platform**: Ubuntu
+
+**Dependencies**:
 
 - libgtk-3-dev
 - libgtk-3-doc
